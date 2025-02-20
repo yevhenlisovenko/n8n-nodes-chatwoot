@@ -5,6 +5,10 @@
 
 Power your n8n workflows with [Chatwoot](https://www.chatwoot.com/)!
 
+[![npm version](https://img.shields.io/npm/v/@devlikeapro/n8n-nodes-chatwoot.svg)](https://www.npmjs.com/package/@devlikeapro/n8n-nodes-chatwoot)
+
+----
+
 
 👉 Generated from 
 [**ChatWoot OpenAPI**](https://www.chatwoot.com/developers/api/)
