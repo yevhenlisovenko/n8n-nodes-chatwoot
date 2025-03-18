@@ -35,7 +35,7 @@ workflows with
 ```
 
 2. Add **ChatWoot API** credentials in n8n.
-3. Create a new workflow with the ChatWoot node.
+3. Create a new workflow with the **ChatWoot** node.
 
 
 ----
