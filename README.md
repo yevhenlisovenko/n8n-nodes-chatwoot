@@ -29,6 +29,9 @@ workflows with
 - [Installation](#installation)
 - [Usage](#usage)
   * [Credentials](#credentials)
+    + [Platform](#platform)
+    + [User](#user)
+    + [Inbox](#inbox)
 
 <!-- tocstop -->
 
@@ -44,4 +47,32 @@ workflows with
 
 # Usage
 ## Credentials
-There're few types of creden
+There are few types of credentials (accounts) that you can use to authenticate with ChatWoot API.
+
+For different ChatWoot API Endpoints you'll need different credentials - please
+refer to the [ChatWoot API documentation](https://www.chatwoot.com/developers/api/) for more information.
+
+We suggest you create **ChatWoot API** credentials in **n8n** for each type of account and name it `ChatWoot - {TYPE}` 
+for better clarity.
+
+![](./screenshots/n8n-credentials.png)
+
+### Platform
+This token can be obtained by the system admin after creating a platformApp. This token should be used to provision agent bots, accounts, users and their roles.
+
+![](./screenshots/chatwoot-platform-token.png)
+
+### User
+This token can be obtained by visiting the profile page or via rails console.
+![](./screenshots/chatwoot-profile-token.png)
+
+or **Super Admin** token in some cases
+
+![](./screenshots/chatwoot-admin-token.png)
+
+### Inbox
+This token can be obtained by visiting the inbox settings page.
+
+![](./screenshots/chatwoot-inbox-token.png)
+
+
