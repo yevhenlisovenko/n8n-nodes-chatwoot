@@ -36,16 +36,16 @@ workflows with
 <!-- tocstop -->
 
 # Installation
-1. Install the package in your n8n instance:
-
+Install [the community node package in your n8n instance](https://docs.n8n.io/integrations/community-nodes/installation/gui-install/):
 ```
 @devlikeapro/n8n-nodes-chatwoot
 ```
 
+# Usage
+1. Install the community package to your n8n instance.
 2. Add **ChatWoot API** **credentials** in **n8n**.
 3. Create a new workflow with the **ChatWoot** node.
 
-# Usage
 ## Credentials
 There are few types of credentials (accounts) that you can use to authenticate with ChatWoot API.
 
