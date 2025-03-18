@@ -20,7 +20,8 @@ workflows with
 - ChatWoot API reference: [https://www.chatwoot.com/developers/api/](https://www.chatwoot.com/developers/api/)
 - 👉 Generated from
   [ChatWoot OpenAPI](https://www.chatwoot.com/developers/api/)
-  using [**devlikeapro/n8n-openapi-node**](https://github.com/devlikeapro/n8n-openapi-node)
+  using
+  [**devlikeapro/n8n-openapi-node**](https://github.com/devlikeapro/n8n-openapi-node)
 
 # Tables of Contents
 
@@ -32,6 +33,8 @@ workflows with
     + [Platform](#platform)
     + [User](#user)
     + [Inbox](#inbox)
+- [Development](#development)
+- [Support the project](#support-the-project)
 
 <!-- tocstop -->
 
@@ -75,4 +78,16 @@ This token can be obtained by visiting the inbox settings page.
 
 ![](./screenshots/chatwoot-inbox-token.png)
 
+# Development
+The node is generated from the
+[ChatWoot OpenAPI](https://www.chatwoot.com/developers/api/)
+using
+[**devlikeapro/n8n-openapi-node**](https://github.com/devlikeapro/n8n-openapi-node).
 
+Likely the fix should be done in the OpenAPI specification file or in the generator itself.
+
+# Support the project
+
+You can support the project by donating a small amount to help us improve the project even more.
+
+[https://patreon.com/devlikeapro](https://patreon.com/devlikeapro)
