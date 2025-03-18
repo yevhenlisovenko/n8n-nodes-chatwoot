@@ -1,20 +1,31 @@
 # @devlikeapro/n8n-nodes-chatwoot
 
-![chatwoot logo](chatwoot.png)
-![n8n logo](n8n.png)
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+">
+  <img src="./chatwoot.png" width='150px'/>
+  <img src="./n8n.png" width='150px'/>
+</div>
 
-Power your n8n workflows with [Chatwoot](https://www.chatwoot.com/)!
+Automate your
+[**ChatWoot**](https://www.chatwoot.com/)
+workflows with
+[**n8n**](https://n8n.io/)
+!
+
+![screenshot](node.png)
 
 [![npm version](https://img.shields.io/npm/v/@devlikeapro/n8n-nodes-chatwoot.svg)](https://www.npmjs.com/package/@devlikeapro/n8n-nodes-chatwoot)
 
-----
+# Tables of Contents
 
+<!-- toc -->
 
-👉 Generated from 
-[**ChatWoot OpenAPI**](https://www.chatwoot.com/developers/api/)
-using [**devlikeapro/n8n-openapi-node**](https://github.com/devlikeapro/n8n-openapi-node)
+- [Installation](#installation)
 
-![screenshot](node.png)
+<!-- tocstop -->
 
 # Installation
 1. Install the package in your n8n instance:
@@ -25,4 +36,12 @@ using [**devlikeapro/n8n-openapi-node**](https://github.com/devlikeapro/n8n-open
 
 2. Add **ChatWoot API** credentials in n8n.
 3. Create a new workflow with the ChatWoot node.
+
+
+----
+
+👉 Generated from
+[**ChatWoot OpenAPI**](https://www.chatwoot.com/developers/api/)
+using [**devlikeapro/n8n-openapi-node**](https://github.com/devlikeapro/n8n-openapi-node)
+
 
