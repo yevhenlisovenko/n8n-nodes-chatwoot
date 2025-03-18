@@ -89,5 +89,4 @@ Likely the fix should be done in the OpenAPI specification file or in the genera
 # Support the project
 
 You can support the project by donating a small amount to help us improve the project even more.
-
-[https://patreon.com/devlikeapro](https://patreon.com/devlikeapro)
+- [https://patreon.com/devlikeapro](https://patreon.com/devlikeapro)
