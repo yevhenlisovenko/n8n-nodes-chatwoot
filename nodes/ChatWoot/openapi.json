@@ -9065,19 +9065,19 @@
       "userApiKey": {
         "type": "apiKey",
         "description": "This token can be obtained by visiting the profile page or via rails console. Provides access to  endpoints based on the user permissions levels. This token can be saved by an external system when user is created via API, to perform activities on behalf of the user.",
-        "name": "api_access_token",
+        "name": "Api-Access-Token",
         "in": "header"
       },
       "agentBotApiKey": {
         "type": "apiKey",
         "description": "This token should be provided by system admin or obtained via rails console. This token can be used to build bot integrations and can only access limited apis.",
-        "name": "api_access_token",
+        "name": "Api-Access-Token",
         "in": "header"
       },
       "platformAppApiKey": {
         "type": "apiKey",
         "description": "This token can be obtained by the system admin after creating a platformApp. This token should be used to provision agent bots, accounts, users and their roles.",
-        "name": "api_access_token",
+        "name": "Api-Access-Token",
         "in": "header"
       }
     }
