@@ -9071,7 +9071,7 @@
       "agentBotApiKey": {
         "type": "apiKey",
         "description": "This token should be provided by system admin or obtained via rails console. This token can be used to build bot integrations and can only access limited apis.",
-        "name": "Api-Access-Token",
+        "name": "api_access_token",
         "in": "header"
       },
       "platformAppApiKey": {
