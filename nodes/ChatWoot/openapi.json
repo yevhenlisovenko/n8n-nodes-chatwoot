@@ -9065,7 +9065,7 @@
       "userApiKey": {
         "type": "apiKey",
         "description": "This token can be obtained by visiting the profile page or via rails console. Provides access to  endpoints based on the user permissions levels. This token can be saved by an external system when user is created via API, to perform activities on behalf of the user.",
-        "name": "Api-Access-Token",
+        "name": "api_access_token",
         "in": "header"
       },
       "agentBotApiKey": {
